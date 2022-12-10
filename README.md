@@ -1,7 +1,7 @@
 
 # PracticaconJSP
 
-La práctica consiste en la realización de una misma aplicación web utilizando, Servltes y JSP.
+La práctica consiste en la realización de una misma aplicación web utilizando Servltes y JSP.
 
 Ambas tienen un CDI Bean, Elemento.java que sirve de apoyo para la persisntencia de datos entre las páginas.
 
